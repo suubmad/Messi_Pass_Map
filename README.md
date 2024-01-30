@@ -1,5 +1,5 @@
 # Messi's Pass Map
-### I created messi's passing map in this notebook
+### I created Messi's pass map in this notebook
 
 
 #### Visualization:
