@@ -1,5 +1,5 @@
 # Messi's Pass Map
-### I created messi's Fifa World Cup 2022 pass map with using Statsbomb data
+### I created Messi's Fifa World Cup 2022 pass map using Statsbomb data
 
 
 #### Visualization:
